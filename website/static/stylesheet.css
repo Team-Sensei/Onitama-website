@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position: sticky;
+    text-align: center;
+    display: inline;
+}
+
+nav {
+    background-color: gray;
+    border:1px solid blue;
+    width: 100%;
+    margin: 0cm;
+    padding: 0cm;
+}
+
+
+
